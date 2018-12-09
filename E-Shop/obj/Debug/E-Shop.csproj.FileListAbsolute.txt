@@ -1,0 +1,10 @@
+G:\development\C#\DOHS_Class\project\E-Shop\E-Shop\bin\Debug\E-Shop.exe.config
+G:\development\C#\DOHS_Class\project\E-Shop\E-Shop\bin\Debug\E-Shop.exe
+G:\development\C#\DOHS_Class\project\E-Shop\E-Shop\bin\Debug\E-Shop.pdb
+G:\development\C#\DOHS_Class\project\E-Shop\E-Shop\obj\Debug\E-Shop.csprojAssemblyReference.cache
+G:\development\C#\DOHS_Class\project\E-Shop\E-Shop\obj\Debug\E_Shop.Properties.Resources.resources
+G:\development\C#\DOHS_Class\project\E-Shop\E-Shop\obj\Debug\E-Shop.csproj.GenerateResource.cache
+G:\development\C#\DOHS_Class\project\E-Shop\E-Shop\obj\Debug\E-Shop.csproj.CoreCompileInputs.cache
+G:\development\C#\DOHS_Class\project\E-Shop\E-Shop\obj\Debug\E-Shop.exe
+G:\development\C#\DOHS_Class\project\E-Shop\E-Shop\obj\Debug\E-Shop.pdb
+G:\development\C#\DOHS_Class\project\E-Shop\E-Shop\obj\Debug\E_Shop.UI.MainUI.resources
